@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\projects\task1lab3\task1lab3\Source.c(23,3): warning C4013: 'srand' undefined; assuming extern returning int
+C:\projects\task1lab3\task1lab3\Source.c(26,15): warning C4013: 'rand' undefined; assuming extern returning int
+  task1lab3.vcxproj -> C:\projects\task1lab3\x64\Debug\task1lab3.exe

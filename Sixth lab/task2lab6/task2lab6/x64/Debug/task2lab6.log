@@ -1,0 +1,3 @@
+﻿  arrayc.c
+C:\projects\labs\lab8\lab6\task2lab6\task2lab6\arrayc.c(27,8): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  task2lab6.vcxproj -> C:\projects\labs\lab8\lab6\task2lab6\x64\Debug\task2lab6.exe

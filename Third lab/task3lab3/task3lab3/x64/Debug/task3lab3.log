@@ -1,0 +1,5 @@
+﻿  Source.c
+C:\projects\task3lab3\task3lab3\Source.c(16,3): warning C4013: 'srand' undefined; assuming extern returning int
+C:\projects\task3lab3\task3lab3\Source.c(19,16): warning C4013: 'rand' undefined; assuming extern returning int
+C:\projects\task3lab3\task3lab3\Source.c(69,14): warning C4244: 'initializing': conversion from 'double' to 'long', possible loss of data
+  task3lab3.vcxproj -> C:\projects\task3lab3\x64\Debug\task3lab3.exe

@@ -1,0 +1,6 @@
+﻿  array.c
+C:\projects\lab51\lab51\array.c(13,11): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  task1lab5.c
+C:\projects\lab51\lab51\task1lab5.c(45,5): warning C4013: 'free' undefined; assuming extern returning int
+  Generating Code...
+  lab51.vcxproj -> C:\projects\lab51\x64\Debug\lab51.exe
